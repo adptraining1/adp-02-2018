@@ -3,6 +3,7 @@ Hello Italy
 Hello Switzerland
 Hello Lebanon
 Hello Germany
+Hello China
 Hello France
 Hello India
 Hello Netherlands
